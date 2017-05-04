@@ -1,0 +1,32 @@
+first,last,address,city,zip
+John,Doe,120 any st.,"Anytown, WW",08123a,b,c
+1,"",""
+2,3,4a,b,c
+1,"",""
+2,3,4a,b
+1,"ha ""ha"" ha"
+3,4
+key,val
+1,"{""type"": ""Point"", ""coordinates"": [102.0, 0.5]}"
+a,b,c
+1,2,3
+"Once upon 
+a time",5,6
+7,8,9
+a,b,c
+1,2,3
+"Once upon 
+a time",5,6
+7,8,9
+a,b
+1,"ha 
+""ha"" 
+ha"
+3,4
+a,b,c
+1,2,3
+a,b,c
+1,2,3
+a,b,c
+1,2,3
+4,5,ʤ
